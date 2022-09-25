@@ -49,8 +49,8 @@ A NoPixel inspired liveries made from scratch for our community to enjoy and use
 * LSPDFR [link here.](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/38261-non-els-2018-dodge-demon-rb-bb-fivem-ready/)
 
 # 2021 Ford Mustang
-* Created by [NorthernScot](https://discord.gg/ryTbfZhVR7)
-* LSPDFR [link here.](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/30250-2018-ford-mustang-rb-bb-fivem-ready/)
+* Created by [EarthLlamma](https://discord.gg/WDZxBke)
+* LSPDFR [link here.](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/33618-non-els-2021-mach-1-mustang-rb-fivem-ready/)
 
 # Helicopters AS350
 * Created by [SkylineGTRFreak](https://www.gta5-mods.com/users/SkylineGTRFreak)
