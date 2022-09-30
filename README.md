@@ -48,6 +48,10 @@ A NoPixel inspired liveries made from scratch for our community to enjoy and use
 * Created by [EarthLlamma](https://discord.gg/WDZxBke)
 * LSPDFR [link here.](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/33618-non-els-2021-mach-1-mustang-rb-fivem-ready/)
 
+# 2011 Crown Victoria
+* Created by [Silent S.](https://www.lcpdfr.com/profile/378511-silent-s/)
+* LSPDFR [link here.]https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/23301-fivem-readynon-els-2011-crown-victoria/)
+
 # Helicopters AS350
 * Created by [SkylineGTRFreak](https://www.gta5-mods.com/users/SkylineGTRFreak)
 * GTA5Mods [link here.](https://www.gta5-mods.com/vehicles/as-350-ecureuil)
