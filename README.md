@@ -10,10 +10,11 @@ A NoPixel inspired liveries made from scratch for our community to enjoy and use
 * Ensure ps-liveries
 
 # Cars Included
-* 2019 ZR1 Corvette - SASP, BCSO, Rangers
-* 2018 Dodge Demon - SASP, BCSO, Rangers
-* 2021 Ford Mustang - SASP, BCSO, Rangers
-* Helicopters AS350 - LSPD & BCSO
+* 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
+* 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
+* 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
+* 2011 Ford Crownvic|Liverys - LSPD
+* Helicopters AS350|Liverys - LSPD & BCSO
 
 
 # Showcase
