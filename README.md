@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/82112471/190289781-f36fb8c4-a98a-4792-9eb3-4b45d7adb1a4.png)
 
 # ps-liveries
-A NoPixel inspired liveries made from scratch for our community to enjoy and use.
+NoPixel inspired liveries made from scratch for our community to enjoy and use.
 
 ![Project Sloth Buttons](https://user-images.githubusercontent.com/91661118/169454003-488c8994-eec9-4b92-9b0c-f3a675be7d1b.png)
 
