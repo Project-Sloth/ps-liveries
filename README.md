@@ -14,6 +14,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
 * 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
 * 2011 Ford Crownvic|Liverys - LSPD, LSPD GHOST,
+* 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST,
 * Helicopters AS350|Liverys - LSPD & BCSO
 
 
@@ -29,12 +30,18 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://user-images.githubusercontent.com/82112471/190290360-1d6323fa-f13f-49ea-88f4-c3ebb183f929.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290369-dad8a5fe-8a68-462e-88a9-f529b1b32f2c.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290378-917ed8af-dd7d-449b-8bdc-d250afff16cb.png)
+![image](https://cdn.discordapp.com/attachments/1019793471965503631/1030170977931378688/Picsart_22-10-13_13-30-31-938.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290385-db2466c8-bc73-44a5-ba90-6349b72525f0.png)
 
 # Livery Credits
 * [Samael#3124](https://github.com/Luceeiy)
 * [bunny🐇#1920](https://github.com/Bunny5578)
 * [Polo4217](https://github.com/Polo4217) - Handling Files
+
+# Sound Credits
+*[Crown Victoria sound by Aquaphobic](https://www.gta5-mods.com/vehicles/ford-crown-victoria-4-6-modular-v8-engine-sound-oiv-add-on-fivem-sound)
+
+*[Dodge Charger sound by Aquaphobic](https://www.gta5-mods.com/vehicles/dodge-charger-6-4-6-2sc-v8-engine-sound-oiv-add-on-fivem-sound)
 
 # Car Model Credits
 # 2019 ZR1 Corvette
@@ -56,3 +63,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 # Helicopters AS350
 * Created by [SkylineGTRFreak](https://www.gta5-mods.com/users/SkylineGTRFreak)
 * GTA5Mods [link here.](https://www.gta5-mods.com/vehicles/as-350-ecureuil)
+
+# 2018 Dodge Charger
+* Created by [NorthernScot](https://www.gta5-mods.com/users/NorthernScot)
+* GTA5Mods [link here.](https://www.gta5-mods.com/vehicles/2018-dodge-charger-r-b-liberty-ii#comments_tab)
