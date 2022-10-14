@@ -9,6 +9,10 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * Drag and drop
 * Ensure ps-liveries
 
+# For use of sounds
+* Drag [ps-liveries-sounds] into your `resources` folder
+* Ensure [ps-liveries-sounds] in your server CFG
+
 # Cars Included
 * 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
 * 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
