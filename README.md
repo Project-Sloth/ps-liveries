@@ -19,6 +19,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
 * 2011 Ford Crownvic|Liverys - LSPD, LSPD GHOST,
 * 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST,
+* 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST,
 * Helicopters AS350|Liverys - LSPD & BCSO
 
 
@@ -35,6 +36,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://user-images.githubusercontent.com/82112471/190290369-dad8a5fe-8a68-462e-88a9-f529b1b32f2c.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290378-917ed8af-dd7d-449b-8bdc-d250afff16cb.png)
 ![image](https://cdn.discordapp.com/attachments/1019793471965503631/1030170977931378688/Picsart_22-10-13_13-30-31-938.png)
+![image](https://cdn.discordapp.com/attachments/1019793471965503631/1031009840123883652/Screenshot_2342.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290385-db2466c8-bc73-44a5-ba90-6349b72525f0.png)
 
 # Livery Credits
@@ -71,3 +73,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 # 2018 Dodge Charger
 * Created by [NorthernScot](https://www.gta5-mods.com/users/NorthernScot)
 * GTA5Mods [link here.](https://www.gta5-mods.com/vehicles/2018-dodge-charger-r-b-liberty-ii#comments_tab)
+
+# 2020 Ford Explorer
+* Created by [NorthernScot](https://www.gta5-mods.com/users/NorthernScot)
+* GTA5Mods [link here.](https://www.gta5-mods.com/vehicles/non-els-2020-ford-explorer)
