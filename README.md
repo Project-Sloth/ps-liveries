@@ -45,9 +45,9 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * [Polo4217](https://github.com/Polo4217) - Handling Files
 
 # Sound Credits
-*[Crown Victoria sound by Aquaphobic](https://www.gta5-mods.com/vehicles/ford-crown-victoria-4-6-modular-v8-engine-sound-oiv-add-on-fivem-sound)
+* [Crown Victoria sound by Aquaphobic](https://www.gta5-mods.com/vehicles/ford-crown-victoria-4-6-modular-v8-engine-sound-oiv-add-on-fivem-sound)
 
-*[Dodge Charger sound by Aquaphobic](https://www.gta5-mods.com/vehicles/dodge-charger-6-4-6-2sc-v8-engine-sound-oiv-add-on-fivem-sound)
+* [Dodge Charger sound by Aquaphobic](https://www.gta5-mods.com/vehicles/dodge-charger-6-4-6-2sc-v8-engine-sound-oiv-add-on-fivem-sound)
 
 # Car Model Credits
 # 2019 ZR1 Corvette
