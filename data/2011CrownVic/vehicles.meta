@@ -125,4 +125,10 @@
       </firstPersonDrivebyData>
     </Item>
     </InitDatas>
+  <txdRelationships>
+	    <Item>
+      <parent>vehicles_poltax_interior</parent>
+      <child>pd1</child>
+    </Item>
+  </txdRelationships>
 </CVehicleModelInfo__InitDataList>
