@@ -130,5 +130,10 @@
       <parent>vehicles_bob_brown_interior</parent>
       <child>expmax20</child>
     </Item>
+  <txdRelationships>
+	    <Item>
+      <parent>vehicles_bob_brown_interior</parent>
+      <child>Explorer</child>
+    </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
