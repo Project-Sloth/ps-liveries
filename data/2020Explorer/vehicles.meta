@@ -126,9 +126,9 @@
     </Item>
   </InitDatas>
   <txdRelationships>
-	    <Item>
+      <Item>
       <parent>vehicles_bob_brown_interior</parent>
-      <child>expmax20</child>
+      <child>Explorer</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

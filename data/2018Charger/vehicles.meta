@@ -135,6 +135,9 @@
     </Item>
 	</InitDatas>
 	<txdRelationships>
-   
+   	<Item>
+      <parent>vehicles_poltax_interior</parent>
+      <child>Char</child>
+    </Item>
 	</txdRelationships>
 </CVehicleModelInfo__InitDataList>

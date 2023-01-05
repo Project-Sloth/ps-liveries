@@ -6,7 +6,7 @@
     <Item>
       <modelName>pd1</modelName> 
       <txdName>pd1</txdName>
-      <handlingId>POLICE</handlingId>
+      <handlingId>pd1</handlingId>
       <gameName>pd1</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -125,4 +125,10 @@
       </firstPersonDrivebyData>
     </Item>
     </InitDatas>
+  <txdRelationships>
+	    <Item>
+      <parent>vehicles_poltax_interior</parent>
+      <child>pd1</child>
+    </Item>
+  </txdRelationships>
 </CVehicleModelInfo__InitDataList>
