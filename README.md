@@ -17,7 +17,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
 * 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
 * 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
-* 2011 Ford Crownvic|Liverys - LSPD, LSPD GHOST, CPD
+* 2011 Ford Crownvic|Liverys - LSPD, LSPD GHOST, CPD, BCSO
 * 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * Helicopters AS350|Liverys - LSPD & BCSO
@@ -42,6 +42,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 # Livery Credits
 * [Samael#3124](https://github.com/Luceeiy)
 * [bunny🐇#1920](https://github.com/Bunny5578)
+* [LividDS#3397](https://github.com/LividDS)
 * [Polo4217](https://github.com/Polo4217) - Handling Files
 
 # Sound Credits
