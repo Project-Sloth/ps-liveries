@@ -63,10 +63,10 @@
       <steerWheelMult value="1.000000" />
       <HDTextureDist value="5.000000" />
       <lodDistances content="float_array">
-        100.000000
-        200.000000
-        300.000000	
-        400.000000	
+        500.000000
+        500.000000
+        500.000000	
+        500.000000	
         500.000000	
         500.000000 
       </lodDistances>
