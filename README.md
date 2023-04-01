@@ -30,8 +30,8 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * Helicopters AS350|Liverys - LSPD & BCSO
 
 
-# Showcase
-* Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
+# 2.0 Showcase
+* Showcasing Video found [here]()
 # 2.0 images
 ![image](https://i.imgur.com/PFNsrKO.jpg)
 ![image](https://i.imgur.com/2PF6OeM.jpg)
@@ -40,7 +40,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://i.imgur.com/3sUs7as.jpg)
 ![image](https://i.imgur.com/10HYP0o.jpg)
 
-# Showcase
+# 1.0 Showcase
 * Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
 # 1.0 images
 ![VEPF9y7](https://user-images.githubusercontent.com/82112471/190525677-553eaa3b-a5da-44a9-abb1-59e410f59de8.jpg)
