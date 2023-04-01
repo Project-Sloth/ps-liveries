@@ -20,15 +20,6 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2021 Ford F-150|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
 * 2018 Dodge Durango|CallSigns|Liverys - LSPD, BCSO, UC
 * Helicopters AS350|Closing doors|Liverys - LSPD & BCSO
-# 1.0 Cars Includes
-* 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
-* 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
-* 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
-* 2011 Ford Crownvic|Liverys - LSPD, LSPD GHOST, CPD, BCSO
-* 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST, CPD
-* 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST, CPD
-* Helicopters AS350|Liverys - LSPD & BCSO
-
 
 # 2.0 Showcase
 * Showcasing Video found [here]()
@@ -40,6 +31,14 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://i.imgur.com/3sUs7as.jpg)
 ![image](https://i.imgur.com/10HYP0o.jpg)
 
+# 1.0 Cars Includes
+* 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
+* 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
+* 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
+* 2011 Ford Crownvic|Liverys - LSPD, LSPD GHOST, CPD, BCSO
+* 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST, CPD
+* 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST, CPD
+* Helicopters AS350|Liverys - LSPD & BCSO
 # 1.0 Showcase
 * Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
 # 1.0 images
