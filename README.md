@@ -7,12 +7,19 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 
 # Install
 * Drag and drop
-* Ensure ps-liveries
+* Ensure ps-liveries1.0
+* Ensure ps-liveries2.0
 
 # For use of sounds
 * Drag [ps-liveries-sounds] into your `resources` folder
 * Ensure [ps-liveries-sounds] in your server CFG
-
+# 2.0 Cars Includes
+* 2010 Ford Taurus|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2015 Ford Explorer|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2018 Dodge Charger|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2021 Ford F-150|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2018 Dodge Durango|CallSigns|Liverys - LSPD, BCSO, UC
+* Helicopters AS350|Closing doors|Liverys - LSPD & BCSO
 # 1.0 Cars Includes
 * 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
 * 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
@@ -21,18 +28,20 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * Helicopters AS350|Liverys - LSPD & BCSO
-# 2.0 Cars Includes
-* 2010 Ford Taurus|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
-* 2015 Ford Explorer|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
-* 2018 Dodge Charger|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
-* 2021 Ford F-150|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
-* 2018 Dodge Durango|CallSigns|Liverys - LSPD, BCSO, UC
-* Helicopters AS350|Liverys - LSPD & BCSO
 
 
 # Showcase
 * Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
+# 2.0 images
+![image](https://i.imgur.com/PFNsrKO.jpg)
+![image](https://i.imgur.com/2PF6OeM.jpg)
+![image](https://i.imgur.com/3sUs7as.jpg)
+![image](https://i.imgur.com/Cas1c0N.jpg)
+![image](https://i.imgur.com/3sUs7as.jpg)
+![image](https://i.imgur.com/10HYP0o.jpg)
 
+# Showcase
+* Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
 # 1.0 images
 ![VEPF9y7](https://user-images.githubusercontent.com/82112471/190525677-553eaa3b-a5da-44a9-abb1-59e410f59de8.jpg)
 ![image](https://user-images.githubusercontent.com/82112471/190526131-4f915832-df3b-4b2a-a7a8-b7dc6fc25974.png)
@@ -46,14 +55,6 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://cdn.discordapp.com/attachments/1019793471965503631/1030170977931378688/Picsart_22-10-13_13-30-31-938.png)
 ![image](https://cdn.discordapp.com/attachments/1019793471965503631/1031009840123883652/Screenshot_2342.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290385-db2466c8-bc73-44a5-ba90-6349b72525f0.png)
-
-# 2.0 images
-![image](https://i.imgur.com/PFNsrKO.jpg)
-![image](https://i.imgur.com/2PF6OeM.jpg)
-![image](https://i.imgur.com/3sUs7as.jpg)
-![image](https://i.imgur.com/Cas1c0N.jpg)
-![image](https://i.imgur.com/3sUs7as.jpg)
-![image](https://i.imgur.com/10HYP0o.jpg)
 
 # Livery Credits
 * [Samael#3124](https://github.com/Luceeiy)
