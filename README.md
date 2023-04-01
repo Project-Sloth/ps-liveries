@@ -13,7 +13,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * Drag [ps-liveries-sounds] into your `resources` folder
 * Ensure [ps-liveries-sounds] in your server CFG
 
-# Cars Included
+# 1.0 Cars Includes
 * 2019 ZR1 Corvette|Liverys - SASP, BCSO, Rangers
 * 2018 Dodge Demon|Liverys - SASP, BCSO, Rangers
 * 2021 Ford Mustang|Liverys - SASP, BCSO, Rangers
@@ -21,11 +21,19 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * Helicopters AS350|Liverys - LSPD & BCSO
+# 2.0 Cars Includes
+* 2010 Ford Taurus|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2015 Ford Explorer|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2018 Dodge Charger|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2021 Ford F-150|CallSigns|Liverys - LSPD, BCSO, troopers, rangers, CPD
+* 2018 Dodge Durango|CallSigns|Liverys - LSPD, BCSO, UC
+* Helicopters AS350|Liverys - LSPD & BCSO
 
 
 # Showcase
 * Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
 
+# 1.0 images
 ![VEPF9y7](https://user-images.githubusercontent.com/82112471/190525677-553eaa3b-a5da-44a9-abb1-59e410f59de8.jpg)
 ![image](https://user-images.githubusercontent.com/82112471/190526131-4f915832-df3b-4b2a-a7a8-b7dc6fc25974.png)
 ![T5DYGad](https://user-images.githubusercontent.com/82112471/190525908-17695b5c-ae78-455b-8e46-be186cf03242.jpg)
@@ -39,16 +47,28 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://cdn.discordapp.com/attachments/1019793471965503631/1031009840123883652/Screenshot_2342.png)
 ![image](https://user-images.githubusercontent.com/82112471/190290385-db2466c8-bc73-44a5-ba90-6349b72525f0.png)
 
+# 2.0 images
+![image](https://i.imgur.com/PFNsrKO.jpg)
+![image](https://i.imgur.com/2PF6OeM.jpg)
+![image](https://i.imgur.com/3sUs7as.jpg)
+![image](https://i.imgur.com/Cas1c0N.jpg)
+![image](https://i.imgur.com/3sUs7as.jpg)
+![image](https://i.imgur.com/10HYP0o.jpg)
+
 # Livery Credits
 * [Samael#3124](https://github.com/Luceeiy)
 * [bunny🐇#1920](https://github.com/Bunny5578)
 * [LividDS#3397](https://github.com/LividDS)
-* [Polo4217](https://github.com/Polo4217) - Handling Files
+* [Polo4217](https://github.com/Polo4217) - 1.0 Handling Files
 
 # Sound Credits
 * [Crown Victoria sound by Aquaphobic](https://www.gta5-mods.com/vehicles/ford-crown-victoria-4-6-modular-v8-engine-sound-oiv-add-on-fivem-sound)
 
 * [Dodge Charger sound by Aquaphobic](https://www.gta5-mods.com/vehicles/dodge-charger-6-4-6-2sc-v8-engine-sound-oiv-add-on-fivem-sound)
+
+# Car callsign Pack Credits
+* Created by [SoCal Thero#3018.]( https://discord.gg/sHhAAZx)
+* forum.cfx [link here.](https://forum.cfx.re/t/free-ocrps-leo-vehicle-pack-with-vehicle-template-light-template-and-call-sign-mod-ver-3-0/5015523)
 
 # Car Model Credits
 # 2019 ZR1 Corvette
