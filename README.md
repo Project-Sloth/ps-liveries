@@ -21,8 +21,8 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2018 Dodge Durango|CallSigns|Liverys - LSPD, BCSO, UC
 * Helicopters AS350|Closing doors|Liverys - LSPD & BCSO
 
-# 2.0 Showcase
-* Showcasing Video found [here](https://cdn.discordapp.com/attachments/848608027254194199/1091762915331297480/ps-liveries.mp4)
+# Showcase
+![video](https://vimeo.com/814049535)
 # 2.0 images
 ![image](https://i.imgur.com/PFNsrKO.jpg)
 ![image](https://i.imgur.com/2PF6OeM.jpg)
@@ -39,8 +39,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * 2018 Dodge Charger|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * 2020 Ford Explorer|Liverys - LSPD, BCSO, BCSO GHOST, CPD
 * Helicopters AS350|Liverys - LSPD & BCSO
-# 1.0 Showcase
-* Showcasing Video found [here](https://www.youtube.com/watch?v=gvi1P7psSWQ)
+
 # 1.0 images
 ![VEPF9y7](https://user-images.githubusercontent.com/82112471/190525677-553eaa3b-a5da-44a9-abb1-59e410f59de8.jpg)
 ![image](https://user-images.githubusercontent.com/82112471/190526131-4f915832-df3b-4b2a-a7a8-b7dc6fc25974.png)
