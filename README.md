@@ -22,7 +22,8 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * Helicopters AS350|Closing doors|Liverys - LSPD & BCSO
 
 # Showcase
-![video](https://vimeo.com/814049535)
+* Showcasing Video found [here](https://vimeo.com/814049535)
+
 # 2.0 images
 ![image](https://i.imgur.com/PFNsrKO.jpg)
 ![image](https://i.imgur.com/2PF6OeM.jpg)
