@@ -59,7 +59,7 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 ![image](https://user-images.githubusercontent.com/82112471/190290385-db2466c8-bc73-44a5-ba90-6349b72525f0.png)
 
 # Livery Credits
-* [Samael#3124](https://github.com/Luceeiy)
+* [Samael#1564](https://github.com/Luceeiy)
 * [bunny🐇#1920](https://github.com/Bunny5578)
 * [LividDS#3397](https://github.com/LividDS)
 * [Polo4217](https://github.com/Polo4217) - 1.0 Handling Files
