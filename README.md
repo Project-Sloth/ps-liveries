@@ -14,10 +14,10 @@ NoPixel inspired liveries made from scratch for our community to enjoy and use.
 * Ensure [ps-liveries-sounds] in your server CFG
 
 # 2.0 Update 
-* 2010 Ford Taurus - LSPD, BCSO, Troopers, Rangers, CPD
-* 2015 Ford Explorer - LSPD, BCSO, Troopers, Rangers, CPD
+* 2010 Ford Taurus - LSPD, BCSO, Troopers, Rangers
+* 2015 Ford Explorer - LSPD, BCSO, Troopers, Rangers
 * 2018 Dodge Charger - LSPD, BCSO, Troopers, Rangers, CPD
-* 2021 Ford F-150 - LSPD, BCSO, Troopers, Rangers, CPD
+* 2021 Ford F-150 - LSPD, BCSO, Troopers, Rangers
 * 2018 Dodge Durango - LSPD, BCSO, UC
 * Helicopters AS350 - LSPD & BCSO
 
