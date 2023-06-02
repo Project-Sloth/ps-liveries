@@ -244,7 +244,7 @@
   <Item>
       <modelName>sodurango</modelName>
       <txdName>sodurango</txdName>
-      <handlingId>SO21DURA</handlingId>
+      <handlingId>sodurango</handlingId>
       <gameName>Durango</gameName>
       <vehicleMakeName>Dodge</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -365,7 +365,7 @@
 	<Item>
       <modelName>soexplorer</modelName>
       <txdName>soexplorer</txdName>
-      <handlingId>SO21INTER</handlingId>
+      <handlingId>soexplorer</handlingId>
       <gameName>Interceptor</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -486,7 +486,7 @@
   <Item>
       <modelName>sotruck</modelName>
       <txdName>sotruck</txdName>
-      <handlingId>SO21F150</handlingId>
+      <handlingId>sotruck</handlingId>
       <gameName>FORD</gameName>
       <vehicleMakeName>F150XLT</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
