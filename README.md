@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/82112471/190289781-f36fb8c4-a98a-4792-9eb3-4b45d7adb1a4.png)
 
+# New FiveM ToS
+To adhere to the updated FiveM Terms of Service, this resource will no longer receive updates and will be archived.
+
 # ps-liveries
 NoPixel inspired liveries made from scratch for our community to enjoy and use.
 
